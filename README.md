@@ -1,0 +1,1 @@
+This repository is going to be storing a basic recipe website. This will be the first website that is made through The Odin Project.
